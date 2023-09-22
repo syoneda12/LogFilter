@@ -1,0 +1,6 @@
+INFO: Application started successfully.
+DEBUG: Data received: { "name": "John|Doe", "address": "123 Main St." }
+ERROR: User input contains invalid character: "\". Request denied.
+DEBUG: <img src="/path/to/image.jpg"/> might be an XSS attempt.
+WARNING: File path contains restricted characters: C:/Users/John/My Docs*:*.txt
+INFO: Connection established with IP: 192.168.1.1
